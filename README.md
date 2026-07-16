@@ -6,7 +6,7 @@ I enjoy working with people, sharing ideas, and finding new experiences. Lately,
 
 ### 💻 Tech Stack
 - **Frontend:** React, Angular
-- **Backend:** Node.js, Next.js, Python, Go, C#
+- **Backend:** Node.js, NestJS, Python, Go, C#
 - **Databases:** MySQL, MongoDB
 - **API & Tools:** Postman, Swagger
 
@@ -14,7 +14,7 @@ I enjoy working with people, sharing ideas, and finding new experiences. Lately,
 - I have two dogs 
 - A chocolate lover who is also addicted to milk tea! 
 - Natsume Yuujinchou is my favorite anime 
-- *Hobbies:* Reading novels, drawing, and outing with friends
+- **Hobbies:** Reading novels, drawing, and outing with friends
   
 <!--
 **aunyada05/aunyada05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
